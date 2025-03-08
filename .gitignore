@@ -1,0 +1,8 @@
+testgit/
+*.gff3
+*.gff3:Zone.Identifier
+*.bed.gz
+*.bed.gz.tbi
+*.bed.gz.tbi:Zone.Identifier
+*.db
+*.db.bak
