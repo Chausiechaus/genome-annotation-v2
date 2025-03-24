@@ -6,3 +6,4 @@ testgit/
 *.bed.gz.tbi:Zone.Identifier
 *.db
 *.db.bak
+*.Identifier
